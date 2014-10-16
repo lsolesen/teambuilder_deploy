@@ -6,3 +6,4 @@ version = "7.x-0.1"
 
 dependencies[] = teambuilder_activities
 dependencies[] = teambuilder_activities_pdf
+dependencies[] = teambuilder_search
